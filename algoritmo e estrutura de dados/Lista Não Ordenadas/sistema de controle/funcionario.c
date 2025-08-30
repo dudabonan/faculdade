@@ -101,8 +101,3 @@ int Imprimir(funcionario* lista, int* nF, int chave) {
     printf("\n\n-=-=-=-=-=-=-=-=-=-=-=-=-=-");
     return 1;
 }
-
-/*
-define as funcoes implementadas definidas no .h
-includes de funcoes/procedimentos (strings.h)
-*/
