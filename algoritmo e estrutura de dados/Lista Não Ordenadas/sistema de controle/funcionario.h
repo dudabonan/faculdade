@@ -24,10 +24,3 @@ int Remover(funcionario* lista, int* nF, int chave);
 int Buscar(funcionario* lista, int* nF, int chave);
 int Alterar(funcionario* lista, int* nF, int chave);
 int Imprimir(funcionario* lista, int* nF, int chave);
-
-/*
-#includes
-#defines
-novos tipos (structs)
-prototipo das funcoes/procedimentos
-*/
